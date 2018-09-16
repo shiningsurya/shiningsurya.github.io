@@ -8,17 +8,18 @@ description: "Randomness" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: D8 # blog's title
+  title: Delta Infinity # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: ae68933d40e08dee33bf5cfafa05eb57 # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>Everything that interests me <br> in a <i>scientific</i>, <i>intellectual</i> or <i>mathematical</i> way.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> 
+   <br> © Suryarao Bethapudi 
 
   # Icons
   rss: false  # Make sure you created a feed.xml with feed.xml layout
@@ -56,10 +57,10 @@ theme_settings:
     reddit: 
     linkedin:
     wordpress:
-    email: true
+    email: false 
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-124685592-1  # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
   
