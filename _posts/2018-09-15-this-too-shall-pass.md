@@ -49,4 +49,5 @@ while Surya.isAlive():
         pass
     else:
         Surya.EnjoyLife()
+		pass
 {% endhighlight %}
