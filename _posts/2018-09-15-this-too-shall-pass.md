@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first tattoo 
-tags: [me]
+tags: [me, intellectual]
 ---
 
 _I am finally going to get my first tattoo._
