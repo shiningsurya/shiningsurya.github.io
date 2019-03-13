@@ -7,4 +7,4 @@ for(var i=0;i < mds.length;i++) {
 				break;
 		} 
 }
-document.getElementById("fourtwozero").src = "{{site.url}}/assets/img/four_/" + md + ".png";
+document.getElementById("fourtwozero").src = "https://shiningsuryarao.com/assets/img/four_/" + md + ".png";
