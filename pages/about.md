@@ -8,7 +8,7 @@ tags: [me]
 
 Suryarao Bethapudi, 22/M
 
-220 lb, 6'1"
+204 lb, 6'1"
 
 B+
 
