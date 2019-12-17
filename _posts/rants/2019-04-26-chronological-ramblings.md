@@ -54,10 +54,7 @@ _Even if my contributions to pushing the frontiers of Science is negligble, I wa
 
 I don't want to be fully living per say. I'd be happy even as a ghost, not affecting any other living being in any way. I'd sure be happy if I have someone to talk to (but that's wishful thinking). I will see Science, do the math for myself. 
 
-I'd be as good as dead yet learn everything, see everything, know everything. But, that'd be no use to anyone else. I guess that sucks. But, on the whole,
-...
-...
-that seems fun. 
+I'd be as good as dead yet learn everything, see everything, know everything. But, that'd be no use to anyone else. I guess that sucks. But, on the whole, that seems fun. 
 
 
 
