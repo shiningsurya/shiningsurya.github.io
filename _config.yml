@@ -23,7 +23,7 @@ theme_settings:
 
   # Icons
   rss: false  # Make sure you created a feed.xml with feed.xml layout
-  email_address: shining.surya.d8@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: b3ta5sigma6rh0@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -103,7 +103,7 @@ paginate_path: "blog/page:num"
 # PORTFOLIO
 collections:
   portfolio:
-    output: false 
+    output: true
     permalink: /:collection/:name
 
 
