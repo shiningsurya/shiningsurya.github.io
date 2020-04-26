@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Right to be wrong
+title: Right to be wrong [RTBW]
 tags: [me]
 ---
 
