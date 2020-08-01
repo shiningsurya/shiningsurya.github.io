@@ -137,6 +137,8 @@ This is in $$1D$$. We don't know how this would look in multiple dimensions.
 
 It would be interesting to see this in an actual survey with real participants.
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfgqZbCk1vXlp8ZqSED5n08u4vif_50WAOXrKdkIulvNt2xQA/viewform?embedded=true" width="640" height="1550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 Maybe this is why it is hard for humans to say like $$L = 20$$ random digits (base-10 $$S$$) because we would want $$r$$ to be as high as possible, since that's what randomness is for us.
 And, if we compute how many combinations are for maximum $$r$$, i.e., $$r = 9$$, we get $$10^{14}$$ which is $$69.54%$$ less than the unconstrained number.
